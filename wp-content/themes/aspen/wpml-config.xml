@@ -1,0 +1,9 @@
+<wpml-config>
+  <custom-fields>
+    <custom-field action="translate">aspen_post_format_quote_text</custom-field>
+    <custom-field action="translate">aspen_post_format_quote_name</custom-field>
+    <custom-field action="translate">aspen_post_format_link_url</custom-field>
+    <custom-field action="translate">aspen_post_format_link_text</custom-field>
+    <custom-field action="translate">aspen_post_format_video_code</custom-field>
+  </custom-fields>
+</wpml-config>

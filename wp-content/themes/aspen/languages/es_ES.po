@@ -1,0 +1,2197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aspen\n"
+"POT-Creation-Date: 2019-04-30 11:32-0700\n"
+"PO-Revision-Date: 2019-04-30 11:36-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:20
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:23
+msgid "That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:26
+msgid ""
+"It looks like nothing was found at this location. Maybe try searching for "
+"something else?"
+msgstr ""
+
+#: 404.php:30
+msgid "Take me to the home page"
+msgstr ""
+
+#: comments.php:27
+msgid "Comments"
+msgstr ""
+
+#: comments.php:31 comments.php:49
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:34 comments.php:52
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:35 comments.php:53
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:23
+msgid "Scroll up"
+msgstr ""
+
+#: functions.php:125
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:126
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:127
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:230
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:232
+msgid ""
+"This is the main sidebar. It is rendered on all pages that support the "
+"sidebar, including the blog and its archives."
+msgstr ""
+
+#: functions.php:240
+msgid "Footer Widgets"
+msgstr ""
+
+#: functions.php:242
+msgid ""
+"Widgets placed in this sidebar will be rendered as part of the footer. Each "
+"widget is placed in a separate column."
+msgstr ""
+
+#: functions.php:250
+msgid "Instagram Bar"
+msgstr ""
+
+#: functions.php:252
+msgid ""
+"This full-width widget area is rendered at the bottom of the page. It is "
+"meant to place the Instagram widget."
+msgstr ""
+
+#: functions.php:260
+msgid "Front Page Promo Widgets"
+msgstr ""
+
+#: functions.php:262
+msgid ""
+"This specialized widgetized area is designed to render the promo widgets on "
+"the front page only."
+msgstr ""
+
+#: inc/shapingrain-framework-checker.php:72
+msgid "ShapingRain Framework needs to be installed."
+msgstr ""
+
+#: inc/shapingrain-framework-checker.php:75
+msgid "Click here to search for the plugin."
+msgstr ""
+
+#: inc/shapingrain-framework-checker.php:82
+msgid "ShapingRain Framework needs to be activated."
+msgstr ""
+
+#: inc/shapingrain-framework-checker.php:85
+msgid "Click here to go to the plugins page and activate it."
+msgstr ""
+
+#: inc/shapingrain-framework-checker.php:162
+msgid ""
+"These plug-ins are either required or recommended for Aspen for WordPress. "
+"Without these plug-ins some of the features will not be available. The "
+"Envato Market Plug-in is strongly recommended to keep your theme up to date."
+msgstr ""
+
+#: inc/shapingrain-framework-checker.php:168
+msgid "Aspen for WordPress: Install Required Plugins"
+msgstr ""
+
+#: inc/shapingrain-framework-checker.php:169
+msgid "Install Theme Plugins"
+msgstr ""
+
+#: inc/tax-options.php:17
+msgid "Category Header"
+msgstr ""
+
+#: inc/tax-options.php:44
+msgid "Header Image"
+msgstr ""
+
+#: inc/tax-options.php:45
+msgid ""
+"Upload an image to be used in the header for this category. It will also be "
+"used for posts that have this category set as the primary category if no "
+"featured image is used."
+msgstr ""
+
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:34
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:53 inc/template-tags.php:59
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:55
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:61
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:67
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:67
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:67
+msgid "% Comments"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:74 template-parts/content-page.php:46
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags.php:250 inc/template-tags.php:264
+msgid "Search"
+msgstr ""
+
+#: inc/template-tags.php:442 inc/template-tags.php:446
+#: inc/template-tags.php:450
+#, php-format
+msgid "Archive: %s"
+msgstr ""
+
+#: inc/template-tags.php:455
+#, php-format
+msgid "Author's Archive for %s"
+msgstr ""
+
+#: inc/template-tags.php:459
+#, php-format
+msgid "Blog Archive: %s"
+msgstr ""
+
+#: inc/template-tags.php:463
+#, php-format
+msgid "Search Results: %s"
+msgstr ""
+
+#. translators: 1: separator, 2: search phrase
+#: inc/template-tags.php:559
+#, php-format
+msgid "Search Results %1$s %2$s"
+msgstr ""
+
+#: inc/template-tags.php:564
+msgid "Page not found"
+msgstr ""
+
+#: inc/template-tags.php:604
+msgid "Leave a Reply"
+msgstr "Dejar un Comentario"
+
+#: inc/template-tags.php:605 woocommerce/single-product-reviews.php:72
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/template-tags.php:606
+msgid "Cancel Reply"
+msgstr ""
+
+#: inc/template-tags.php:607
+msgid "Post Comment"
+msgstr "Comentar"
+
+#: inc/template-tags.php:609
+msgctxt "noun"
+msgid "Comment"
+msgstr "Comentar"
+
+#: inc/template-tags.php:613
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: inc/template-tags.php:618
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: inc/template-tags.php:627
+msgid "Your email address will not be published."
+msgstr "Su correo electrónico no será publicado."
+
+#: inc/template-tags.php:633 shapingrain-options.php:1522
+#: woocommerce/single-product-reviews.php:77
+msgid "Name"
+msgstr ""
+
+#: inc/template-tags.php:637 woocommerce/single-product-reviews.php:79
+msgid "Email"
+msgstr ""
+
+#: inc/template-tags.php:641
+msgid "Website"
+msgstr ""
+
+#: inc/template-tags.php:665
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:665
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:677
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:909
+msgid "Read more"
+msgstr "Leer más"
+
+#: inc/template-tags.php:1520
+msgid "Previous Post"
+msgstr "Entrada Anterior"
+
+#: inc/template-tags.php:1523
+msgid "Next Post"
+msgstr "Entrada Siguiente"
+
+#: inc/template-tags.php:1546
+msgid "Previous"
+msgstr ""
+
+#: inc/template-tags.php:1547
+msgid "Next"
+msgstr ""
+
+#: inc/template-tags.php:1584
+msgid "You May Also Like"
+msgstr ""
+
+#: inc/welcome.php:14 inc/welcome.php:107
+msgid "Welcome to Aspen"
+msgstr ""
+
+#: inc/welcome.php:15
+msgid "Aspen Theme Setup"
+msgstr ""
+
+#: inc/welcome.php:21
+msgid "Import Aspen Demo Posts"
+msgstr ""
+
+#: inc/welcome.php:36
+msgid "Import of Demo Posts into Aspen"
+msgstr ""
+
+#: inc/welcome.php:43
+msgid ""
+"Demo posts are useful if you want to get a feel for what your blog would "
+"look with posts, if you are starting from scratch. If you already have an "
+"existing blog, you probably do not want to import these posts."
+msgstr ""
+
+#: inc/welcome.php:45
+msgid "1. Locate the demo set you want to import"
+msgstr ""
+
+#: inc/welcome.php:48
+msgid ""
+"The theme ships with 8 sets of demo posts matching our public preview site. "
+"They are contained in the \"Demo_Content\" folder of the \"All files and "
+"documentation\" archive that you can download from themeforest. Each demo "
+"XML file is named after the respective demo on our preview site, e.g. "
+"\"aspen.tech-demo.xml\""
+msgstr ""
+
+#: inc/welcome.php:52
+msgid ""
+"Each file contains demo posts, matching categories and associated images. "
+"Menus are not imported. None of your existing content will be removed or "
+"altered."
+msgstr ""
+
+#: inc/welcome.php:55
+msgid "2. Open the WordPress import tool"
+msgstr ""
+
+#: inc/welcome.php:58
+msgid ""
+"WordPress has a built-in tool to import post content. You can find it under "
+"Tools > Import in your WordPress backend."
+msgstr ""
+
+#: inc/welcome.php:62
+msgid "Open the WordPress Import Tool"
+msgstr ""
+
+#: inc/welcome.php:66
+msgid ""
+"From there, you can select the \"Run Importer\" option for WordPress, at the "
+"end of the page."
+msgstr ""
+
+#: inc/welcome.php:69
+msgid "3. Upload the XML file"
+msgstr ""
+
+#: inc/welcome.php:72
+msgid ""
+"Select the XML file you have chosen to import and click on the \"Upload file "
+"and import\" button."
+msgstr ""
+
+#: inc/welcome.php:75
+msgid "4. Finish the import"
+msgstr ""
+
+#: inc/welcome.php:78
+msgid ""
+"In the next step, you can optionally select an existing user that you want "
+"imported posts to be associated with."
+msgstr ""
+
+#: inc/welcome.php:82
+msgid ""
+"We also recommend that you check the \"Download and import file attachments"
+"\" option to ensure that all images, including featured images, are imported."
+msgstr ""
+
+#: inc/welcome.php:86
+msgid ""
+"Once you have made all your selections, click on \"Import\" to complete the "
+"import process."
+msgstr ""
+
+#: inc/welcome.php:108
+msgid ""
+"Before you can use your site with Aspen, we need to set up a few things."
+msgstr ""
+
+#: inc/welcome.php:114
+msgid "Installation and Activation of Required Plugins"
+msgstr ""
+
+#: inc/welcome.php:116
+msgid ""
+"Aspen requires two plug-ins to provide all the customization options and "
+"features."
+msgstr ""
+
+#: inc/welcome.php:121 inc/welcome.php:124
+msgid "ShapingRain Framework"
+msgstr ""
+
+#: inc/welcome.php:122 inc/welcome.php:133
+msgid "(already installed and activated)"
+msgstr ""
+
+#: inc/welcome.php:125 inc/welcome.php:136
+msgid "(not active)"
+msgstr ""
+
+#: inc/welcome.php:132 inc/welcome.php:135
+msgid "Aspen Feature Pack"
+msgstr ""
+
+#: inc/welcome.php:141
+msgid ""
+"You have installed and activated all necessary plug-ins. The theme is ready "
+"to be used!"
+msgstr ""
+
+#: inc/welcome.php:146
+msgid "Install and Activate Plug-ins"
+msgstr ""
+
+#: inc/welcome.php:154
+msgid "Demo Content and Customization"
+msgstr ""
+
+#: inc/welcome.php:157
+msgid "Demo Layout and Design Settings (Presets)"
+msgstr ""
+
+#: inc/welcome.php:158
+msgid ""
+"The theme comes with easy-to-import demo settings that set up your site like "
+"the respective demo site. Any existing blog content (posts, categories, "
+"menus) will not touched by the demo import."
+msgstr ""
+
+#: inc/welcome.php:164 shapingrain-options.php:1928
+msgid "Import Demo Settings"
+msgstr ""
+
+#: inc/welcome.php:166
+msgid ""
+"In order to import the demo content, you need to install and activate the "
+"required plug-ins first. If you have already done that, you can refresh this "
+"page."
+msgstr ""
+
+#: inc/welcome.php:171
+msgid "Demo Posts"
+msgstr ""
+
+#: inc/welcome.php:172
+msgid ""
+"Optionally, if you would like to also fill your blog with demo posts, you "
+"can import the WordPress XML export files that ship with the theme in the "
+"main package. This step is not recommended if you have an existing blog. It "
+"results in your site being filled with categories, posts and matching images "
+"that you may have to delete manually before adding your own content."
+msgstr ""
+
+#: inc/welcome.php:177
+msgid "How to Import Demo Posts"
+msgstr ""
+
+#: inc/welcome.php:186
+msgid "Customer Service and Documentation"
+msgstr ""
+
+#: inc/welcome.php:189
+msgid "Get Help"
+msgstr ""
+
+#: inc/welcome.php:190
+msgid ""
+"Your purchase comes with 6 months of customer support. If you have any "
+"questions or need any help at all while working with Aspen and making the "
+"theme your own, please get in touch. We are always happy to help."
+msgstr ""
+
+#: inc/welcome.php:191
+msgid "Contact Customer Support"
+msgstr ""
+
+#: inc/welcome.php:195
+msgid "Documentation"
+msgstr ""
+
+#: inc/welcome.php:196
+msgid ""
+"Aspen comes with a comprehensive, illustrated user guide and additional "
+"documentation to help you get the most out of the theme. You can download "
+"all documentation or take it from the main theme package which you can "
+"download from themeforest."
+msgstr ""
+
+#: inc/welcome.php:197
+msgid "Download the Documentation"
+msgstr ""
+
+#: inc/woocommerce.php:46
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: inc/woocommerce.php:47
+msgid "This sidebar is displayed on all WooCommerce pages."
+msgstr ""
+
+#: inc/woocommerce.php:104
+msgid "SOLD OUT"
+msgstr ""
+
+#: inc/woocommerce.php:230 inc/woocommerce.php:260
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/woocommerce.php:244
+msgid "has been added to the cart."
+msgstr ""
+
+#: inc/woocommerce.php:279
+msgid "Back to Shop"
+msgstr ""
+
+#: inc/woocommerce.php:302
+msgid "Details"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:334
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:335
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: lib/class-tgm-plugin-activation.php:337
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: lib/class-tgm-plugin-activation.php:339
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:340
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: lib/class-tgm-plugin-activation.php:343
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/class-tgm-plugin-activation.php:349
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/class-tgm-plugin-activation.php:355
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/class-tgm-plugin-activation.php:361
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/class-tgm-plugin-activation.php:367
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/class-tgm-plugin-activation.php:373
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:378
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:383
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:388
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:392
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:393
+#: lib/class-tgm-plugin-activation.php:912
+#: lib/class-tgm-plugin-activation.php:2618
+#: lib/class-tgm-plugin-activation.php:3665
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:393
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:912
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2618
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:394
+#: lib/class-tgm-plugin-activation.php:3244
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:394
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:395
+#: lib/class-tgm-plugin-activation.php:3037
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:395
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:397
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:399
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: lib/class-tgm-plugin-activation.php:401
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:402
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:403
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:404
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:607
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:608
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1019
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1019
+#: lib/class-tgm-plugin-activation.php:1022
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:1019
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1022
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1206
+#: lib/class-tgm-plugin-activation.php:3033
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:1206
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: lib/class-tgm-plugin-activation.php:2067
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2358
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2361
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2377
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2380
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2383
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2400
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2404
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2406
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2412
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2415
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2418
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: lib/class-tgm-plugin-activation.php:2427
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: lib/class-tgm-plugin-activation.php:2473
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: lib/class-tgm-plugin-activation.php:2477
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: lib/class-tgm-plugin-activation.php:2481
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: lib/class-tgm-plugin-activation.php:2485
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2567
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2575
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2583
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2595
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2618
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2632
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2633
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2634
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2638
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2639
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/class-tgm-plugin-activation.php:2688
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/class-tgm-plugin-activation.php:2693
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/class-tgm-plugin-activation.php:2699
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2769
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2802
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2808
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2811
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2842
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2844
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2885
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2887
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2993
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3019
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3243
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/class-tgm-plugin-activation.php:3583
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: lib/class-tgm-plugin-activation.php:3586
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:3588
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3592
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:3594
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3594
+#: lib/class-tgm-plugin-activation.php:3602
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:3594
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3594
+#: lib/class-tgm-plugin-activation.php:3602
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:3594
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3595
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/class-tgm-plugin-activation.php:3597
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3600
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:3602
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3603
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/class-tgm-plugin-activation.php:3605
+#: lib/tgmpa-class/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/tax-meta-class/tax-meta-class.php:348
+#: lib/tax-meta-class/tax-meta-class.php:394
+msgid "Remove"
+msgstr ""
+
+#: lib/tax-meta-class/tax-meta-class.php:361
+msgid "Add"
+msgstr ""
+
+#: lib/tax-meta-class/tax-meta-class.php:667
+msgid "Remove File"
+msgstr ""
+
+#: lib/tax-meta-class/tax-meta-class.php:669
+msgid "Upload File"
+msgstr ""
+
+#: lib/tax-meta-class/tax-meta-class.php:718
+msgid "Remove Image"
+msgstr ""
+
+#: lib/tax-meta-class/tax-meta-class.php:720
+msgid "Upload Image"
+msgstr ""
+
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: shapingrain-options.php:32
+msgid "Primary Logo"
+msgstr ""
+
+#: shapingrain-options.php:35
+msgid "Upload your primary logo image here."
+msgstr ""
+
+#: shapingrain-options.php:39
+msgid "Secondary Logo"
+msgstr ""
+
+#: shapingrain-options.php:42
+msgid ""
+"Upload your secondary logo image here, used for sticky headers in scroll "
+"mode."
+msgstr ""
+
+#: shapingrain-options.php:46
+msgid "Mobile Logo"
+msgstr ""
+
+#: shapingrain-options.php:49
+msgid ""
+"Upload your mobile logo here. This logo replaces your primary and secondary "
+"logos on mobile devices, if uploaded."
+msgstr ""
+
+#: shapingrain-options.php:62
+msgid "Sidebar Position"
+msgstr ""
+
+#: shapingrain-options.php:66 shapingrain-options.php:360
+#: shapingrain-options.php:597
+msgid "Left"
+msgstr ""
+
+#: shapingrain-options.php:67 shapingrain-options.php:362
+#: shapingrain-options.php:599
+msgid "Right"
+msgstr ""
+
+#: shapingrain-options.php:73
+msgid "Always hide this sidebar"
+msgstr ""
+
+#: shapingrain-options.php:85
+msgid "Always hide this widget area"
+msgstr ""
+
+#: shapingrain-options.php:101
+msgid "Hero Content"
+msgstr ""
+
+#: shapingrain-options.php:104
+msgid "Select which content you would like to display in the banner."
+msgstr ""
+
+#: shapingrain-options.php:106
+msgid "None"
+msgstr ""
+
+#: shapingrain-options.php:107
+msgid "Image"
+msgstr ""
+
+#: shapingrain-options.php:108
+msgid "Slider"
+msgstr ""
+
+#: shapingrain-options.php:109
+msgid "HTML/Shortcode"
+msgstr ""
+
+#: shapingrain-options.php:124
+msgid "Slider Style"
+msgstr ""
+
+#: shapingrain-options.php:128 shapingrain-options.php:221
+#: shapingrain-options.php:342 shapingrain-options.php:474
+msgid "Full Width"
+msgstr ""
+
+#: shapingrain-options.php:129 shapingrain-options.php:222
+msgid "Normal Width"
+msgstr ""
+
+#: shapingrain-options.php:130 shapingrain-options.php:223
+msgid "Wide"
+msgstr ""
+
+#: shapingrain-options.php:131
+msgid "2 Columns/Full Width"
+msgstr ""
+
+#: shapingrain-options.php:132
+msgid "2 Columns/Normal Width"
+msgstr ""
+
+#: shapingrain-options.php:133
+msgid "3 Columns/Full Width"
+msgstr ""
+
+#: shapingrain-options.php:134
+msgid "3 Columns/Normal Width"
+msgstr ""
+
+#: shapingrain-options.php:135
+msgid "4 Columns/Full Width"
+msgstr ""
+
+#: shapingrain-options.php:136
+msgid "4 Columns/Normal Width"
+msgstr ""
+
+#: shapingrain-options.php:142
+msgid "Space between slides"
+msgstr ""
+
+#: shapingrain-options.php:153
+msgid "Amount of posts to display in slider"
+msgstr ""
+
+#: shapingrain-options.php:164
+msgid "Hide posts shown in slider from posts in index"
+msgstr ""
+
+#: shapingrain-options.php:171
+msgid "Display Slider Arrows"
+msgstr ""
+
+#: shapingrain-options.php:178
+msgid "Display Slider Bullets"
+msgstr ""
+
+#: shapingrain-options.php:185
+msgid "Slider Transition"
+msgstr ""
+
+#: shapingrain-options.php:189
+msgid "Slide"
+msgstr ""
+
+#: shapingrain-options.php:190
+msgid "Fade"
+msgstr ""
+
+#: shapingrain-options.php:191
+msgid "Cube"
+msgstr ""
+
+#: shapingrain-options.php:192
+msgid "Coverflow"
+msgstr ""
+
+#: shapingrain-options.php:193
+msgid "Flip"
+msgstr ""
+
+#: shapingrain-options.php:199
+msgid "Slider Autoplay"
+msgstr ""
+
+#: shapingrain-options.php:206
+msgid "Slider Autoplay Delay"
+msgstr ""
+
+#: shapingrain-options.php:217
+msgid "Hero Image Style"
+msgstr ""
+
+#: shapingrain-options.php:229
+msgid "Hero Image"
+msgstr ""
+
+#: shapingrain-options.php:235
+msgid "Do not apply image filters"
+msgstr ""
+
+#: shapingrain-options.php:237
+msgid ""
+"The theme adds a gray filter to images on which we display text. This option "
+"deactivates that filter."
+msgstr ""
+
+#: shapingrain-options.php:243
+msgid "Hero Headline"
+msgstr ""
+
+#: shapingrain-options.php:249
+msgid "Hero Sub Headline"
+msgstr ""
+
+#: shapingrain-options.php:262
+msgid "Layout and Design"
+msgstr ""
+
+#: shapingrain-options.php:263
+msgid "These are global settings affecting the overall layout and design."
+msgstr ""
+
+#: shapingrain-options.php:267 shapingrain-options.php:294
+#: shapingrain-options.php:539
+msgid "Layout"
+msgstr ""
+
+#: shapingrain-options.php:272
+msgid "Design"
+msgstr ""
+
+#: shapingrain-options.php:276
+msgid "Default"
+msgstr ""
+
+#: shapingrain-options.php:277
+msgid "Boxed"
+msgstr ""
+
+#: shapingrain-options.php:289
+msgid "Header"
+msgstr ""
+
+#: shapingrain-options.php:290
+msgid "The header contains the main navigation, your logo and site title etc."
+msgstr ""
+
+#: shapingrain-options.php:301
+msgid "Navigation Style"
+msgstr ""
+
+#: shapingrain-options.php:307
+msgid "One"
+msgstr ""
+
+#: shapingrain-options.php:311
+msgid "Two"
+msgstr ""
+
+#: shapingrain-options.php:315
+msgid "Three"
+msgstr ""
+
+#: shapingrain-options.php:319
+msgid "Four"
+msgstr ""
+
+#: shapingrain-options.php:323
+msgid "Five"
+msgstr ""
+
+#: shapingrain-options.php:327
+msgid "Six"
+msgstr ""
+
+#: shapingrain-options.php:331
+msgid "Seven"
+msgstr ""
+
+#: shapingrain-options.php:335
+msgid "Eight"
+msgstr ""
+
+#: shapingrain-options.php:349
+msgid "Capitalized (Upper Case)"
+msgstr ""
+
+#: shapingrain-options.php:356
+msgid "Menu Alignment"
+msgstr ""
+
+#: shapingrain-options.php:361 shapingrain-options.php:598
+msgid "Center"
+msgstr ""
+
+#: shapingrain-options.php:368
+msgid "Sticky Header"
+msgstr ""
+
+#: shapingrain-options.php:375
+msgid "Mobile Sticky Header"
+msgstr ""
+
+#: shapingrain-options.php:382
+msgid "Transparent Header"
+msgstr ""
+
+#: shapingrain-options.php:390
+msgid "Hide Site Title"
+msgstr ""
+
+#: shapingrain-options.php:398
+msgid "Hide Tagline"
+msgstr ""
+
+#: shapingrain-options.php:405
+msgid "Hide Search"
+msgstr ""
+
+#: shapingrain-options.php:412 shapingrain-options.php:482
+msgid "Hide Social Icons"
+msgstr ""
+
+#: shapingrain-options.php:433 shapingrain-options.php:438
+#: shapingrain-options.php:1087
+msgid "Footer"
+msgstr ""
+
+#: shapingrain-options.php:434
+msgid ""
+"The footer and sub footer are items displayed at the very bottom of every "
+"page."
+msgstr ""
+
+#: shapingrain-options.php:445
+msgid "Footer Style"
+msgstr ""
+
+#: shapingrain-options.php:451
+msgid "Social Icons Right"
+msgstr ""
+
+#: shapingrain-options.php:455
+msgid "Social Icons Top"
+msgstr ""
+
+#: shapingrain-options.php:459
+msgid "Social Icons Bottom"
+msgstr ""
+
+#: shapingrain-options.php:463
+msgid "Social Icons Centered"
+msgstr ""
+
+#: shapingrain-options.php:467
+msgid "No Social Icons"
+msgstr ""
+
+#: shapingrain-options.php:489
+msgid "Hide Scroll-Up Button"
+msgstr ""
+
+#: shapingrain-options.php:497
+msgid "Copyright/Footer Text"
+msgstr ""
+
+#: shapingrain-options.php:500
+msgid "Enter your copyright/footer notice text here."
+msgstr ""
+
+#: shapingrain-options.php:503
+#, php-format
+msgid "&copy; Copyright %1$s by %2$s"
+msgstr ""
+
+#: shapingrain-options.php:517
+msgid "Blog"
+msgstr ""
+
+#: shapingrain-options.php:518
+msgid ""
+"This section contains settings that affect the blog index, archive and "
+"single post pages."
+msgstr ""
+
+#: shapingrain-options.php:522
+msgid "Banner"
+msgstr ""
+
+#: shapingrain-options.php:527
+msgid "Default Banner Image"
+msgstr ""
+
+#: shapingrain-options.php:530
+msgid ""
+"Upload a banner image here. This setting can be overwritten by images "
+"assigned to categories or individual posts."
+msgstr ""
+
+#: shapingrain-options.php:534
+msgid "Index and Archive"
+msgstr ""
+
+#: shapingrain-options.php:546
+msgid "Standard"
+msgstr ""
+
+#: shapingrain-options.php:550
+msgid "Journal"
+msgstr ""
+
+#: shapingrain-options.php:554
+msgid "Grid"
+msgstr ""
+
+#: shapingrain-options.php:558
+msgid "Masonry"
+msgstr ""
+
+#: shapingrain-options.php:562
+msgid "Split"
+msgstr ""
+
+#: shapingrain-options.php:566
+msgid "Minimal"
+msgstr ""
+
+#: shapingrain-options.php:573
+msgid "Columns"
+msgstr ""
+
+#: shapingrain-options.php:582
+msgid "Spacing"
+msgstr ""
+
+#: shapingrain-options.php:593
+msgid "Alignment"
+msgstr ""
+
+#: shapingrain-options.php:605
+msgid "Excerpt Length"
+msgstr ""
+
+#: shapingrain-options.php:616
+msgid "Feature First Post"
+msgstr ""
+
+#: shapingrain-options.php:623
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: shapingrain-options.php:630 shapingrain-options.php:664
+msgid "Show Categories"
+msgstr ""
+
+#: shapingrain-options.php:638 shapingrain-options.php:672
+msgid "Show Date"
+msgstr ""
+
+#: shapingrain-options.php:645 shapingrain-options.php:679
+msgid "Show Author"
+msgstr ""
+
+#: shapingrain-options.php:652
+msgid "Show # of Comments"
+msgstr ""
+
+#: shapingrain-options.php:659
+msgid "Single Posts"
+msgstr ""
+
+#: shapingrain-options.php:686
+msgid "Show Tags"
+msgstr ""
+
+#: shapingrain-options.php:693
+msgid "Show Author Box"
+msgstr ""
+
+#: shapingrain-options.php:701
+msgid "Show Related Posts"
+msgstr ""
+
+#: shapingrain-options.php:714
+msgid "WooCommerce"
+msgstr ""
+
+#: shapingrain-options.php:719
+msgid "Amount of products per page"
+msgstr ""
+
+#: shapingrain-options.php:730
+msgid "Amount of columns"
+msgstr ""
+
+#: shapingrain-options.php:741
+msgid "Spacing between columns"
+msgstr ""
+
+#: shapingrain-options.php:752
+msgid "Hide sidebar"
+msgstr ""
+
+#: shapingrain-options.php:759
+msgid "Default Header Image"
+msgstr ""
+
+#: shapingrain-options.php:771
+msgid "Typography"
+msgstr ""
+
+#: shapingrain-options.php:776
+msgid "Global Colors"
+msgstr ""
+
+#: shapingrain-options.php:781
+msgid "Link Color"
+msgstr ""
+
+#: shapingrain-options.php:788
+msgid "Link Hover Color"
+msgstr ""
+
+#: shapingrain-options.php:795
+msgid "Fonts"
+msgstr ""
+
+#: shapingrain-options.php:800
+msgid "Body"
+msgstr ""
+
+#: shapingrain-options.php:822
+msgid "Logo"
+msgstr ""
+
+#: shapingrain-options.php:844
+msgid "Tagline"
+msgstr ""
+
+#: shapingrain-options.php:866
+msgid "Main Navigation"
+msgstr ""
+
+#: shapingrain-options.php:889
+msgid "H1 Headline"
+msgstr ""
+
+#: shapingrain-options.php:911
+msgid "H2 Headline"
+msgstr ""
+
+#: shapingrain-options.php:933
+msgid "H3 Headline"
+msgstr ""
+
+#: shapingrain-options.php:955
+msgid "H4 Headline"
+msgstr ""
+
+#: shapingrain-options.php:977
+msgid "H5 Headline"
+msgstr ""
+
+#: shapingrain-options.php:999
+msgid "H6 Headline"
+msgstr ""
+
+#: shapingrain-options.php:1021
+msgid "Quotes"
+msgstr ""
+
+#: shapingrain-options.php:1043
+msgid "Page Titles"
+msgstr ""
+
+#: shapingrain-options.php:1065
+msgid "Widget Titles"
+msgstr ""
+
+#: shapingrain-options.php:1507
+msgid "Quote Options"
+msgstr ""
+
+#: shapingrain-options.php:1515
+msgid "Quote Text"
+msgstr ""
+
+#: shapingrain-options.php:1534
+msgid "Link Options"
+msgstr ""
+
+#: shapingrain-options.php:1542
+msgid "Link URL"
+msgstr ""
+
+#: shapingrain-options.php:1550
+msgid "Link Text"
+msgstr ""
+
+#: shapingrain-options.php:1563
+msgid "Video Options"
+msgstr ""
+
+#: shapingrain-options.php:1571
+msgid "Video Embed Code"
+msgstr ""
+
+#: shapingrain-options.php:1584
+msgid "Theme Settings"
+msgstr ""
+
+#: shapingrain-options.php:1593
+msgid "About"
+msgstr ""
+
+#: shapingrain-options.php:1597
+msgid "About Aspen"
+msgstr ""
+
+#: shapingrain-options.php:1618
+msgid "Social Media"
+msgstr ""
+
+#: shapingrain-options.php:1622
+msgid "Social Media Integration"
+msgstr ""
+
+#: shapingrain-options.php:1629
+msgid "Social Icons in Header and Footer"
+msgstr ""
+
+#: shapingrain-options.php:1634
+msgid "Social Services"
+msgstr ""
+
+#: shapingrain-options.php:1638
+msgid ""
+"Here you can activate, deactivate and re-order the social services you would "
+"like to display in your header or footer."
+msgstr ""
+
+#: shapingrain-options.php:1640
+msgid "Twitter"
+msgstr ""
+
+#: shapingrain-options.php:1641
+msgid "Facebook"
+msgstr ""
+
+#: shapingrain-options.php:1642
+msgid "Google+"
+msgstr ""
+
+#: shapingrain-options.php:1643
+msgid "Pinterest"
+msgstr ""
+
+#: shapingrain-options.php:1644
+msgid "Instagram"
+msgstr ""
+
+#: shapingrain-options.php:1645
+msgid "YouTube"
+msgstr ""
+
+#: shapingrain-options.php:1646
+msgid "LinkedIn"
+msgstr ""
+
+#: shapingrain-options.php:1647
+msgid "Flickr"
+msgstr ""
+
+#: shapingrain-options.php:1648
+msgid "Tumblr"
+msgstr ""
+
+#: shapingrain-options.php:1649
+msgid "Foursquare"
+msgstr ""
+
+#: shapingrain-options.php:1650
+msgid "Vimeo"
+msgstr ""
+
+#: shapingrain-options.php:1651
+msgid "last.fm"
+msgstr ""
+
+#: shapingrain-options.php:1652
+msgid "Soundcloud"
+msgstr ""
+
+#: shapingrain-options.php:1653
+msgid "Yelp"
+msgstr ""
+
+#: shapingrain-options.php:1654
+msgid "Slideshare"
+msgstr ""
+
+#: shapingrain-options.php:1655
+msgid "Dribbble"
+msgstr ""
+
+#: shapingrain-options.php:1656
+msgid "Behance"
+msgstr ""
+
+#: shapingrain-options.php:1657
+msgid "GitHub"
+msgstr ""
+
+#: shapingrain-options.php:1658
+msgid "Reddit"
+msgstr ""
+
+#: shapingrain-options.php:1659
+msgid "Weibo"
+msgstr ""
+
+#: shapingrain-options.php:1660
+msgid "DeviantArt"
+msgstr ""
+
+#: shapingrain-options.php:1661
+msgid "Skype"
+msgstr ""
+
+#: shapingrain-options.php:1662
+msgid "Spotify"
+msgstr ""
+
+#: shapingrain-options.php:1663
+msgid "Xing"
+msgstr ""
+
+#: shapingrain-options.php:1664
+msgid "Vine"
+msgstr ""
+
+#: shapingrain-options.php:1665
+msgid "Digg"
+msgstr ""
+
+#: shapingrain-options.php:1671
+msgid "Twitter URL"
+msgstr ""
+
+#: shapingrain-options.php:1680
+msgid "Facebook URL"
+msgstr ""
+
+#: shapingrain-options.php:1689
+msgid "Google+ URL"
+msgstr ""
+
+#: shapingrain-options.php:1697
+msgid "Pinterest URL"
+msgstr ""
+
+#: shapingrain-options.php:1705
+msgid "Instagram URL"
+msgstr ""
+
+#: shapingrain-options.php:1714
+msgid "YouTube URL"
+msgstr ""
+
+#: shapingrain-options.php:1722
+msgid "LinkedIn URL"
+msgstr ""
+
+#: shapingrain-options.php:1730
+msgid "Flickr URL"
+msgstr ""
+
+#: shapingrain-options.php:1738
+msgid "Tumblr URL"
+msgstr ""
+
+#: shapingrain-options.php:1746
+msgid "Foursquare URL"
+msgstr ""
+
+#: shapingrain-options.php:1754
+msgid "Vimeo URL"
+msgstr ""
+
+#: shapingrain-options.php:1762
+msgid "last.fm URL"
+msgstr ""
+
+#: shapingrain-options.php:1770
+msgid "Soundcloud URL"
+msgstr ""
+
+#: shapingrain-options.php:1778
+msgid "Yelp URL"
+msgstr ""
+
+#: shapingrain-options.php:1786
+msgid "Slideshare URL"
+msgstr ""
+
+#: shapingrain-options.php:1794
+msgid "Dribbble URL"
+msgstr ""
+
+#: shapingrain-options.php:1802
+msgid "Behance URL"
+msgstr ""
+
+#: shapingrain-options.php:1810
+msgid "GitHub URL"
+msgstr ""
+
+#: shapingrain-options.php:1818
+msgid "Reddit URL"
+msgstr ""
+
+#: shapingrain-options.php:1826
+msgid "Weibo URL"
+msgstr ""
+
+#: shapingrain-options.php:1834
+msgid "DeviantArt URL"
+msgstr ""
+
+#: shapingrain-options.php:1842
+msgid "Skype URL"
+msgstr ""
+
+#: shapingrain-options.php:1850
+msgid "Spotify URL"
+msgstr ""
+
+#: shapingrain-options.php:1858
+msgid "Xing URL"
+msgstr ""
+
+#: shapingrain-options.php:1866
+msgid "Vine URL"
+msgstr ""
+
+#: shapingrain-options.php:1874
+msgid "Digg URL"
+msgstr ""
+
+#: shapingrain-options.php:1895 shapingrain-options.php:1899
+msgid "Demo Settings"
+msgstr ""
+
+#: shapingrain-options.php:1909
+msgid "Presets"
+msgstr ""
+
+#: shapingrain-options.php:1917
+msgid "Clear and Import Widgets"
+msgstr ""
+
+#: shapingrain-options.php:1918
+msgid ""
+"Clear widgets from all current sidebars and import widgets associated with "
+"preset"
+msgstr ""
+
+#: shapingrain-options.php:2007
+msgid "Main Demo"
+msgstr ""
+
+#: shapingrain-options.php:2012
+msgid "Travel Demo"
+msgstr ""
+
+#: shapingrain-options.php:2017
+msgid "Journalist Demo"
+msgstr ""
+
+#: shapingrain-options.php:2022
+msgid "Food Demo"
+msgstr ""
+
+#: shapingrain-options.php:2027
+msgid "Family Demo"
+msgstr ""
+
+#: shapingrain-options.php:2032
+msgid "Fitness Demo"
+msgstr ""
+
+#: shapingrain-options.php:2037
+msgid "Fashion Demo"
+msgstr ""
+
+#: shapingrain-options.php:2042
+msgid "Tech Demo"
+msgstr ""
+
+#: template-parts/blog-layouts/blog-grid.php:121
+#: template-parts/blog-layouts/blog-journal.php:132
+#: template-parts/blog-layouts/blog-masonry.php:119
+#: template-parts/blog-layouts/blog-split.php:121
+#: template-parts/blog-layouts/blog-split.php:131
+#: template-parts/blog-layouts/blog-standard.php:116
+#: template-parts/blog-layouts/blog-timeline.php:120
+msgid "Continue Reading"
+msgstr "Continuar Leyendo"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:36 template-parts/content.php:34
+#: template-parts/single/content-single-gallery.php:103
+#: template-parts/single/content-single-link.php:90
+#: template-parts/single/content-single-quote.php:91
+#: template-parts/single/content-single-video.php:99
+#: template-parts/single/content-single.php:77
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:27
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuar Leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/single/content-single-gallery.php:35
+#: template-parts/single/content-single-link.php:35
+#: template-parts/single/content-single-quote.php:35
+#: template-parts/single/content-single-video.php:35
+#: template-parts/single/content-single.php:35
+msgid "Written by "
+msgstr ""
+
+#: template-parts/single/content-single-gallery.php:39
+#: template-parts/single/content-single-link.php:37
+#: template-parts/single/content-single-quote.php:37
+#: template-parts/single/content-single-video.php:39
+#: template-parts/single/content-single.php:37
+msgid "in "
+msgstr ""
+
+#. translators: 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:34
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:36
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:102
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:111
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:44
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:27
+msgid "You may also like&hellip;"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Aspen"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.shapingrain.com/products/aspen"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WordPress Blog Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ShapingRain.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.shapingrain.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Sidebar Left"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Sidebar Right"
+msgstr ""

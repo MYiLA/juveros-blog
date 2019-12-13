@@ -1,0 +1,295 @@
+/*------------------------------------------------------------------------------------------*/
+/* Typography */
+/*------------------------------------------------------------------------------------------*/
+
+
+/* --------------- Typography Sheet ---------------  */
+
+
+/* Body
+Font & Size, used for body, input and certain quote elements */
+
+body, input[type=text], textarea, input[type=email], input[type=password],
+input[type=tel], input[type=url], input[type=search], input[type=date], .wpcf7 select, .tagcloud a, input[type="submit"], button[type="submit"],
+.blog-style-grid #blog-posts-overview .blog-post-summary blockquote p, .blog-style-masonry #blog-posts-overview .blog-post-summary blockquote p,
+.blog-style-split #blog-posts-overview .blog-post-summary blockquote p, .pagination-overlay h4, #similar-posts h4, .gform_description, .gform_wrapper .top_label .gfield_label,
+.gfield input, .gfield textarea, .gfield select, blockquote footer cite, .nav-button, .close, .fullscreen-menu-open #header-search a.search-trigger, blockquote footer cite, blockquote cite,
+.widget_archive a, .widget_categories a, .widget_pages a, .widget_meta a, .widget_nav_menu a
+{
+	font-family: 'Open Sans', sans-serif;
+	font-size:15px!important;
+	color:#222222;
+}
+
+#wp-calendar caption {
+	font-family: 'Open Sans', sans-serif;
+	font-size:14px!important;
+	color:#222222;
+}
+
+/* Logo
+Font & Size for Logo and Tagline */
+
+#logo h1, .header-transparent.has-banner-background #site-header .shrink-sticky #logo h1 {
+	font-family: 'Open Sans', sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	color:#333333;
+}
+
+#logo h2, .header-transparent.has-banner-background #site-header .shrink-sticky #logo h2 {
+
+}
+
+
+/* Main Navigation */
+
+#header-bottom nav li a, #header-bottom nav li ul.sub-menu li a,
+.header-transparent.has-banner-background #site-header .sub-menu a,
+.header-transparent.banner-type-slider.slider-style-full-width.has-banner-background #site-header .sub-menu a,
+.header-style-five #header-sidebar-push .cbp-spmenu-vertical a, .header-style-six #header-fullscreen.cbp-spmenu a
+{
+	font-family: 'Open Sans', sans-serif;
+	font-size:14px;
+	color:#222222;
+}
+
+
+/* Default Headings
+From h1 to h6 and Blog Summary Headings*/
+
+h1, #comments .comment-list .comment  h1 {
+	font-family: 'Playfair Display', serif;
+	font-weight: normal;
+	font-size: 50px;
+	color:#222222;
+	line-height:1.3em;
+}
+
+h2, h2 a, #comments .comment-list .comment  h2 {
+	font-family: 'Playfair Display', serif;
+	font-weight:normal;
+	font-size:34px;
+	color:#222222;
+	line-height:1.3em;
+}
+
+h3, h3 a, #comments .comment-list .comment  h3 {
+	font-family: 'Playfair Display', serif;
+	font-weight:normal;
+	font-size:24px;
+	line-height: 1.5em;
+	color:#222222;
+}
+
+h4, #comments .comment-list .comment  h4 {
+	font-family: 'Open Sans', sans-serif;
+	font-size:18px;
+	color:#222222;
+	line-height: 1.5em;
+}
+
+h5, #comments .comment-list .comment  h5 {
+	font-family: 'Open Sans', sans-serif;
+	font-size:16px;
+	color:#222222;
+	line-height: 1.5em;
+}
+
+h6, #comments .comment-list .comment  h6 {
+	font-family: 'Open Sans', sans-serif;
+	font-size:13px;
+	color:#222222;
+	line-height: 1.5em;
+}
+
+
+/* Quotes
+Font & Size for Quotes*/
+
+.single-post .blog-content .col-3-4 blockquote,  .blog-style-journal .blog-post-summary-journal blockquote, .page article.page blockquote,
+.blog-style-minimal .blog-post-summary .quote p, blockquote p, a blockquote p, .quote, #comments .comment-list .comment blockquote p
+{
+	font-family: 'Playfair Display', serif;
+	font-style: italic;
+	font-size:28px;
+	line-height: 1.5em;
+	color:#222222;
+}
+
+.wp-block-pullquote p {
+	font-size:28px!important;
+	line-height: 1.5em!important;
+}
+
+.quote {
+	margin-bottom:15px;
+}
+
+
+/* Blog Specific
+Widget Titles, Blog Titles */
+
+/* Widget Title */
+h3.widget-title, h3.blog-section-title, #comments h3, .woocommerce-Tabs-panel h2, .related.products h2, span#reply-title, h3.widget-title a  {
+	font-family: 'Open Sans', sans-serif;
+	font-size:14px;
+	font-weight:700;
+	line-height: 1.5em;
+}
+
+
+/* Site Footer */
+
+#site-footer, #site-footer a {
+	font-family: 'Open Sans', sans-serif;
+	font-size:12px;
+	color:#999999;
+	line-height: 1.5em;
+}
+
+/* Latest Comments, Archive Widgets */
+
+.wp-block-latest-comments__comment-excerpt p {
+	font-size: 15px;
+	line-height: 1.8;
+	margin: 5px 0 20px;
+}
+
+
+/*------------------------------------------------------------------------------------------*/
+/* Colors */
+/*------------------------------------------------------------------------------------------*/
+
+/* All Colors listed here derive from colors used in fonts, like body or they have their own customizer setting.
+Like Button Color for example.*/
+
+
+
+/* Hamburger Menu, when Open, gets its color from the default body font color */
+
+.header-transparent.has-banner-background.fullscreen-menu-open #site-header #header-icons .nav-button span,
+.header-transparent.has-banner-background #site-header #header-bottom.shrink-sticky #header-icons .nav-button span,
+.nav-button span, .close span, .banner-type-slider .nav-button.open span, #header-bottom.shrink-sticky .nav-button span,
+.woocommerce-mini-cart__buttons a.wc-forward, .products .product .soldout, .product .soldout, .header-transparent.has-banner-background #site-header #header-icons .nav-button span,
+.header-transparent.has-banner-background #site-header #header-icons .nav-button .close span, .banner-type-slider #show-mobile.nav-button span,
+.banner-type-slider .nav-button span, .header-transparent.has-banner-background #show-mobile span
+{
+	background:#222222;
+}
+
+
+/* Site Header Navigation Elements Color
+Social Media Icons, Shopping Cart this color is defined by Main Navigation but has to be applied separately and
+all Elements that only need the Color Value not Font Value
+*/
+
+#site-header a,  .swiper-slide-overlay a.more-link:hover, .aspen-recent-posts ul li a, .woocommerce-tabs a, #pagination-category a, .woocommerce-pagination a,  .comment_name a, .comment_name {
+	color:#222222;
+}
+
+#header-bottom.shrink-sticky nav li a, #site-header #header-bottom.shrink-sticky a, #header-cart .widget_shopping_cart_content ul.cart_list li a,
+#header-cart .woocommerce-mini-cart__total.total {
+	color:#222222!important;
+}
+
+/* Line that appears below a Main Navigation Element */
+
+#main-navigation a:before {
+	border-color:#222222;
+}
+
+/* Primary Link Color, used for normal links,  */
+
+a, #sidebar a:hover, #similar-posts a:hover h4, .gallery-categories a:hover, .blog .blog-post-summary-content h3 a:hover, #blog-posts-overview h3 a:hover,
+.blog-post-summary h2 a:hover, #pagination-category a:hover, #pagination-category span.current, .blog-post-meta a:hover, .single-format-quote .blog-header-content footer,
+.blog-post-category a, #post-tags a:hover, .header-style-four #site-header #site-header-inner #nav-html  a, .header-style-five.header-solid #header-sidebar-push #nav-html  a,
+.header-style-six #header-fullscreen-content a:hover, .aspen-bio-block .social-icons a:hover, #sidebar .widget .aspen-bio-block ul.social-icons li a:hover, #sidebar .aspen-recent-posts .post-category a,
+.woocommerce-MyAccount-navigation .is-active a, .header-style-one.header-solid #site-header #site-header-inner a:hover, .header-style-two.header-solid #site-header #site-header-inner a:hover, .header-style-three.header-solid #site-header #site-header-inner a:hover,
+.header-style-four #site-header #site-header-inner a:hover, .header-style-five #header-sidebar-push a:hover, .header-style-six.header-transparent.has-banner-background #site-header #main-navigation a:hover, #site-header #main-navigation .sub-menu a:hover,
+#site-header .shrink-sticky.shrink #main-navigation .sub-menu a:hover, .woocommerce-pagination span.current,  .woocommerce-pagination a:hover, .single-product p.price,
+a.more-link:hover, a.blog-read-more:hover, .blog-post-summary .social-icons a:hover, #blog-post-bottom-meta .social-icons a:hover, #author-info .social-icons a:hover, #pagination-single a h4,
+.widget_archive a:hover, .widget_categories a:hover, .widget_pages a:hover, .widget_meta a:hover, .widget_nav_menu:hover, .wp-block a, .wp-block-freeform.block-library-rich-text__tinymce blockquote a
+{
+	color:#cdb689;
+}
+
+#header-bottom.shrink-sticky nav li a:hover, #site-header #header-bottom.shrink-sticky a:hover {
+	color:#cdb689!important;
+}
+
+
+/* Main Link Color used as a Border Color e.g. Main Navigation */
+
+.header-style-one #main-navigation .sub-menu, .header-style-two #main-navigation .sub-menu,
+.header-style-three #main-navigation .sub-menu, .header-style-seven #main-navigation .sub-menu,
+.header-style-eight #main-navigation .sub-menu, a.more-link span:before, .blog-style-split a.more-link span:before,
+.blog-style-minimal a.more-link span:before, input[type=text]:focus, textarea:focus, input[type=email]:focus, input[type=password]:focus, input[type=tel]:focus, input[type=url]:focus,
+input[type=search]:focus, input[type=date]:focus, #header-cart-notification, #header-cart .widget_shopping_cart_content, .single-post .blog-content .col-3-4 blockquote.wp-block-quote.is-style-large {
+	border-color: #cdb689;
+}
+
+
+/* Main Link Color Used as a Background */
+
+.blog-post-link .link p:after, .blog-post-link .link:before, .widget_mc4wp_form_widget input[type="submit"],
+h3.widget-title:after, h3.blog-section-title:after, #comments h3:after, .woocommerce-Tabs-panel h2:after, .related.products h2:after,
+span#reply-title:after, [class*='slider-style-two-columns-'] #banner-slider a.more-link:before, [class*='slider-style-three-columns-'] #banner-slider a.more-link:before,
+[class*='slider-style-four-columns-'] #banner-slider a.more-link:before, .single-post .blog-content .col-3-4 blockquote:before, .single-post .blog-content .col-3-4 blockquote:after,  .blog-style-journal .blog-post-summary-journal blockquote:before,
+.blog-style-journal .blog-post-summary-journal blockquote:after, .page article.page blockquote:before, .page article.page blockquote:after,
+#respond input[type="submit"]:hover, .wpcf7 [type="submit"]:hover, .gform_footer [type="submit"]:hover, #header-cart-total, #comments .comment-list .comment blockquote:before, #comments .comment-list .comment blockquote:after,
+.widget_categories li .children li:before, .widget_pages li .children li:before, .widget_nav_menu li .sub-menu li:before, .wp-block-quote:after, .wp-block-quote:before, .wp-block-freeform.block-library-rich-text__tinymce blockquote:before, .wp-block-freeform.block-library-rich-text__tinymce blockquote:after
+{
+	background: #cdb689;
+}
+
+
+/* Background and Text Color when no Image is present */
+.no-post-thumbnail .blog-grid-content .blog-post-image, .products .product .onsale, .single .onsale, .single_add_to_cart_button, .woocommerce-mini-cart__buttons a.checkout,
+.widget_price_filter .price_slider_amount .button, .woocommerce-message a, .wc-proceed-to-checkout a, .shop_table .actions .coupon input[type="submit"],
+input#place_order, .woocommerce-account input[type="submit"], .place-order button#place_order, .widget_search form:after, .widget_product_search form:after,
+.no-results.not-found form:after
+{
+	background:#cdb689!important; /*Background comes from Main Link Color*/
+	color:#fff!important; /*Text Color comes from Background Body Color, like OTS, Inbound*/
+}
+
+.no-post-thumbnail .blog-grid-content .blog-post-image a, .woocommerce-mini-cart__buttons a.wc-forward {
+	color:#fff!important;/*Text Color comes from Background Body Color, like OTS, Inbound*/
+}
+
+
+/* Hirachy */
+
+h3.blog-section-title, #comments h3 {
+	font-size:16px;
+	letter-spacing: 0.05em;
+	margin-bottom: 15px;
+}
+
+
+/* Landscape mobile & down
+===============================*/
+@media (max-width: 480px) {
+
+	.nav-button span {
+		background: #222222!important;
+	}
+
+
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+	.nav-button span {
+		background: #222222!important;
+	}
+
+}
+
+@media only screen and (min-width: 767px) and (max-width: 960px) {
+	.nav-button span {
+		background: #222222!important;
+	}
+}

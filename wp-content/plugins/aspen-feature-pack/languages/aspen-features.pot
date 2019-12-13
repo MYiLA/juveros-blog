@@ -1,0 +1,704 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Aspen Feature Pack by ShapingRain\n"
+"POT-Creation-Date: 2019-03-12 15:09-0700\n"
+"PO-Revision-Date: 2018-11-07 15:21-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: aspen-feature-pack.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: lib/widget-class/widget-class.php:545
+msgid "None"
+msgstr ""
+
+#: lib/widget-class/widget-class.php:585
+msgid "All"
+msgstr ""
+
+#: lib/widget-class/widget-class.php:728
+msgid "Select control and user interaction options."
+msgstr ""
+
+#: lib/widget-class/widget-class.php:739
+msgid "Display navigation arrows"
+msgstr ""
+
+#: lib/widget-class/widget-class.php:752
+msgid "Display item navigation pips"
+msgstr ""
+
+#: lib/widget-class/widget-class.php:766
+msgid "Pause when the user hovers over the slider"
+msgstr ""
+
+#: lib/widget-class/widget-class.php:780
+msgid "Pause when the user interacts with control elements"
+msgstr ""
+
+#: lib/widget-class/widget-class.php:794
+msgid "Randomize slide order"
+msgstr ""
+
+#: lib/widget-class/widget-class.php:803
+msgid ""
+"Select which transition to use and set the speed of the slideshow cycling "
+"in milliseconds."
+msgstr ""
+
+#: lib/widget-class/widget-class.php:806
+msgid "Set the speed of the slideshow cycling in milliseconds."
+msgstr ""
+
+#: lib/widget-class/widget-class.php:808
+msgid "Select which transition to use."
+msgstr ""
+
+#: lib/widget-class/widget-class.php:815
+msgid "Slide"
+msgstr ""
+
+#: lib/widget-class/widget-class.php:816
+msgid "Fade"
+msgstr ""
+
+#: lib/widget-class/widget-class.php:972
+msgid "Select Items"
+msgstr ""
+
+#: lib/widget-class/widget-class.php:1323
+msgid "Select Image"
+msgstr ""
+
+#: lib/widget-class/widget-class.php:1324
+msgid "Clear"
+msgstr ""
+
+#: social.php:13
+msgid "Facebook Username"
+msgstr ""
+
+#: social.php:14
+msgid "Twitter Username"
+msgstr ""
+
+#: social.php:15
+msgid "Google Plus"
+msgstr ""
+
+#: social.php:16
+msgid "Skype Username"
+msgstr ""
+
+#: social.php:17
+msgid "LinkedIn Profile URL"
+msgstr ""
+
+#: social.php:18
+msgid "Instagram Username"
+msgstr ""
+
+#: social.php:19
+msgid "Pinterest Username"
+msgstr ""
+
+#: social.php:20
+msgid "Flickr Username"
+msgstr ""
+
+#: social.php:21
+msgid "Tumblr Profile URL"
+msgstr ""
+
+#: social.php:22
+msgid "YouTube Channel URL"
+msgstr ""
+
+#: social.php:23
+msgid "Vimeo Username"
+msgstr ""
+
+#: social.php:43 widgets/widget-bio-block.php:179
+#: widgets/widget-bio-block.php:475 widgets/widget-social-icons.php:52
+#: widgets/widget-social-icons.php:242
+msgid "Website"
+msgstr ""
+
+#: social.php:50 social.php:175 social.php:286
+#: widgets/widget-bio-block.php:499 widgets/widget-social-icons.php:258
+msgid "Twitter"
+msgstr ""
+
+#: social.php:57 social.php:176 social.php:291
+#: widgets/widget-bio-block.php:491 widgets/widget-social-icons.php:250
+msgid "Facebook"
+msgstr ""
+
+#: social.php:64 social.php:177 social.php:296
+#: widgets/widget-bio-block.php:507 widgets/widget-social-icons.php:266
+msgid "Google+"
+msgstr ""
+
+#: social.php:71
+msgid "Skype"
+msgstr ""
+
+#: social.php:78 social.php:179 social.php:306
+#: widgets/widget-bio-block.php:515 widgets/widget-social-icons.php:274
+msgid "LinkedIn"
+msgstr ""
+
+#: social.php:85 widgets/widget-bio-block.php:523
+#: widgets/widget-social-icons.php:282
+msgid "Instagram"
+msgstr ""
+
+#: social.php:92 social.php:178 social.php:301
+#: widgets/widget-bio-block.php:531 widgets/widget-social-icons.php:290
+msgid "Pinterest"
+msgstr ""
+
+#: social.php:99 widgets/widget-bio-block.php:539
+#: widgets/widget-social-icons.php:298
+msgid "Flickr"
+msgstr ""
+
+#: social.php:106 social.php:180 social.php:316
+#: widgets/widget-bio-block.php:547 widgets/widget-social-icons.php:306
+msgid "Tumblr"
+msgstr ""
+
+#: social.php:113 widgets/widget-bio-block.php:555
+#: widgets/widget-social-icons.php:314
+msgid "Foursquare"
+msgstr ""
+
+#: social.php:120 widgets/widget-bio-block.php:563
+#: widgets/widget-social-icons.php:322
+msgid "YouTube"
+msgstr ""
+
+#: social.php:127 widgets/widget-bio-block.php:571
+#: widgets/widget-social-icons.php:330
+msgid "Vimeo"
+msgstr ""
+
+#: social.php:181 social.php:311
+msgid "Reddit"
+msgstr ""
+
+#: social.php:182 social.php:321
+msgid "StumbleUpon"
+msgstr ""
+
+#: social.php:183
+msgid "VKontakte"
+msgstr ""
+
+#: social.php:189
+msgid "Social Sharing Icons"
+msgstr ""
+
+#: social.php:194
+msgid "Social Icons"
+msgstr ""
+
+#: social.php:210
+msgid "Social Sharing"
+msgstr ""
+
+#: social.php:215
+msgid "Show Social Sharing Icons"
+msgstr ""
+
+#: social.php:326
+msgid "vkontakte"
+msgstr ""
+
+#: social.php:343
+msgid "SHARE"
+msgstr ""
+
+#: widgets/widget-aspen-ad.php:22
+msgid "Aspen Ad"
+msgstr ""
+
+#: widgets/widget-aspen-ad.php:24
+msgid "Renders an ad."
+msgstr ""
+
+#: widgets/widget-aspen-ad.php:34
+msgid "HTML Code"
+msgstr ""
+
+#: widgets/widget-aspen-ad.php:35
+msgid ""
+"Enter custom mark-up here. Either this code or an uploaded image is "
+"displayed, not both."
+msgstr ""
+
+#: widgets/widget-aspen-ad.php:44 widgets/widget-image.php:46
+#: widgets/widget-promo-item.php:70
+msgid "Image"
+msgstr ""
+
+#: widgets/widget-aspen-ad.php:45 widgets/widget-image.php:47
+#: widgets/widget-promo-item.php:71
+msgid "Upload or select an image."
+msgstr ""
+
+#: widgets/widget-aspen-ad.php:54 widgets/widget-bio-block.php:88
+#: widgets/widget-image.php:56 widgets/widget-promo-item.php:80
+msgid "Link URL"
+msgstr ""
+
+#: widgets/widget-aspen-ad.php:55
+msgid "Define a URL to point this link to."
+msgstr ""
+
+#: widgets/widget-aspen-ad.php:64 widgets/widget-image.php:67
+#: widgets/widget-promo-item.php:91
+msgid "Open Link in New Window"
+msgstr ""
+
+#: widgets/widget-aspen-ad.php:73
+msgid "Add \"nofollow\" attribute to link."
+msgstr ""
+
+#: widgets/widget-bio-block.php:22
+msgid "Aspen About Me"
+msgstr ""
+
+#: widgets/widget-bio-block.php:24
+msgid ""
+"Displays picture, name, position and social icons to introduce a person."
+msgstr ""
+
+#: widgets/widget-bio-block.php:31 widgets/widget-social-icons.php:31
+msgid "General"
+msgstr ""
+
+#: widgets/widget-bio-block.php:32
+msgid "Contact Options"
+msgstr ""
+
+#: widgets/widget-bio-block.php:42 widgets/widget-image.php:35
+#: widgets/widget-instagram-feed.php:48 widgets/widget-promo-item.php:37
+#: widgets/widget-recent-comments.php:34 widgets/widget-recent-posts.php:35
+#: widgets/widget-social-icons.php:40 widgets/widget-testimonial.php:35
+#: widgets/widget-video.php:35
+msgid "Title"
+msgstr ""
+
+#: widgets/widget-bio-block.php:43 widgets/widget-image.php:36
+#: widgets/widget-instagram-feed.php:49 widgets/widget-promo-item.php:38
+#: widgets/widget-recent-comments.php:35 widgets/widget-recent-posts.php:36
+#: widgets/widget-social-icons.php:41 widgets/widget-video.php:36
+msgid "Enter the widget title."
+msgstr ""
+
+#: widgets/widget-bio-block.php:47
+msgid "About Me"
+msgstr ""
+
+#: widgets/widget-bio-block.php:52 widgets/widget-testimonial.php:57
+msgid "Name"
+msgstr ""
+
+#: widgets/widget-bio-block.php:53
+msgid "Enter this person's name."
+msgstr ""
+
+#: widgets/widget-bio-block.php:64
+msgid "Description"
+msgstr ""
+
+#: widgets/widget-bio-block.php:65
+msgid ""
+"Enter a short description or introduction here, like a mini biography."
+msgstr ""
+
+#: widgets/widget-bio-block.php:77 widgets/widget-testimonial.php:67
+msgid "Job Title/Description/Company"
+msgstr ""
+
+#: widgets/widget-bio-block.php:78 widgets/widget-testimonial.php:68
+msgid "Enter a job title, function and/or company name here."
+msgstr ""
+
+#: widgets/widget-bio-block.php:89
+msgid "Define a link to point this block to."
+msgstr ""
+
+#: widgets/widget-bio-block.php:99
+msgid "Alignment"
+msgstr ""
+
+#: widgets/widget-bio-block.php:100
+msgid "Select how text should be aligned."
+msgstr ""
+
+#: widgets/widget-bio-block.php:105
+msgid "Left"
+msgstr ""
+
+#: widgets/widget-bio-block.php:109
+msgid "Right"
+msgstr ""
+
+#: widgets/widget-bio-block.php:113
+msgid "Center"
+msgstr ""
+
+#: widgets/widget-bio-block.php:122
+msgid "Header Background Image"
+msgstr ""
+
+#: widgets/widget-bio-block.php:123
+msgid "Upload an image to be displayed behind the avatar image."
+msgstr ""
+
+#: widgets/widget-bio-block.php:133 widgets/widget-testimonial.php:77
+msgid "Avatar/Picture"
+msgstr ""
+
+#: widgets/widget-bio-block.php:134
+msgid "Upload an image to be displayed."
+msgstr ""
+
+#: widgets/widget-bio-block.php:144 widgets/widget-testimonial.php:87
+msgid "Avatar Style"
+msgstr ""
+
+#: widgets/widget-bio-block.php:145 widgets/widget-testimonial.php:88
+msgid "Select what style you would like to apply to this block's avatar."
+msgstr ""
+
+#: widgets/widget-bio-block.php:151
+msgid "Square"
+msgstr ""
+
+#: widgets/widget-bio-block.php:155 widgets/widget-testimonial.php:98
+msgid "Rounded"
+msgstr ""
+
+#: widgets/widget-bio-block.php:159 widgets/widget-testimonial.php:102
+msgid "Circle"
+msgstr ""
+
+#: widgets/widget-bio-block.php:168
+msgid "Signature"
+msgstr ""
+
+#: widgets/widget-bio-block.php:169
+msgid "Upload an image to be displayed as the signature."
+msgstr ""
+
+#: widgets/widget-bio-block.php:190 widgets/widget-bio-block.php:483
+msgid "Email"
+msgstr ""
+
+#: widgets/widget-bio-block.php:201 widgets/widget-social-icons.php:63
+msgid "Facebook URL"
+msgstr ""
+
+#: widgets/widget-bio-block.php:212 widgets/widget-social-icons.php:74
+msgid "Twitter URL"
+msgstr ""
+
+#: widgets/widget-bio-block.php:223 widgets/widget-social-icons.php:85
+msgid "Google+ URL"
+msgstr ""
+
+#: widgets/widget-bio-block.php:234 widgets/widget-social-icons.php:96
+msgid "LinkedIn URL"
+msgstr ""
+
+#: widgets/widget-bio-block.php:245 widgets/widget-social-icons.php:107
+msgid "Instagram URL"
+msgstr ""
+
+#: widgets/widget-bio-block.php:256 widgets/widget-social-icons.php:118
+msgid "Pinterest URL"
+msgstr ""
+
+#: widgets/widget-bio-block.php:267 widgets/widget-social-icons.php:129
+msgid "Flickr URL"
+msgstr ""
+
+#: widgets/widget-bio-block.php:278 widgets/widget-social-icons.php:140
+msgid "Tumblr URL"
+msgstr ""
+
+#: widgets/widget-bio-block.php:289 widgets/widget-social-icons.php:151
+msgid "Foursquare URL"
+msgstr ""
+
+#: widgets/widget-bio-block.php:300 widgets/widget-social-icons.php:162
+msgid "YouTube URL"
+msgstr ""
+
+#: widgets/widget-bio-block.php:311 widgets/widget-social-icons.php:173
+msgid "Vimeo URL"
+msgstr ""
+
+#: widgets/widget-image.php:22
+msgid "Aspen Image"
+msgstr ""
+
+#: widgets/widget-image.php:24
+msgid "Displays a simple image."
+msgstr ""
+
+#: widgets/widget-image.php:57 widgets/widget-promo-item.php:81
+msgid "Enter an optional URL to link the image to."
+msgstr ""
+
+#: widgets/widget-instagram-feed.php:22
+msgid "Aspen Instagram Feed"
+msgstr ""
+
+#: widgets/widget-instagram-feed.php:24
+msgid "Displays an Instagram Feed."
+msgstr ""
+
+#: widgets/widget-instagram-feed.php:35
+msgid "Info"
+msgstr ""
+
+#: widgets/widget-instagram-feed.php:36
+msgid ""
+"This widget requires Instagram Feed plug-in by Smash Balloon. You can find "
+"it in the WordPress plug-in repository."
+msgstr ""
+
+#: widgets/widget-instagram-feed.php:59
+msgid "Profile Link URL"
+msgstr ""
+
+#: widgets/widget-instagram-feed.php:60
+msgid "Enter an optional URL to link the title to."
+msgstr ""
+
+#: widgets/widget-instagram-feed.php:70
+msgid "Columns"
+msgstr ""
+
+#: widgets/widget-instagram-feed.php:71
+msgid "How many items should be displayed per row?"
+msgstr ""
+
+#: widgets/widget-instagram-feed.php:129
+msgid "Amount of Items"
+msgstr ""
+
+#: widgets/widget-instagram-feed.php:130
+msgid "Enter maximum number of items that should be displayed initially."
+msgstr ""
+
+#: widgets/widget-instagram-feed.php:161
+msgid ""
+"The Instagram Feed widget requires the Instagram Feed plug-in by Smash "
+"Balloon. You can find it in the WordPress plug-in repository. This message "
+"is only visible for administrators."
+msgstr ""
+
+#: widgets/widget-promo-item.php:22
+msgid "Aspen Promo Item"
+msgstr ""
+
+#: widgets/widget-promo-item.php:24
+msgid "Displays an image as a promo item."
+msgstr ""
+
+#: widgets/widget-promo-item.php:48
+msgid "Primary Label"
+msgstr ""
+
+#: widgets/widget-promo-item.php:49
+msgid "This is a larger, highlighted label."
+msgstr ""
+
+#: widgets/widget-promo-item.php:59
+msgid "Secondary Label"
+msgstr ""
+
+#: widgets/widget-promo-item.php:60
+msgid ""
+"This is a smaller, secondary label used for additional description or a "
+"call to action."
+msgstr ""
+
+#: widgets/widget-raw-html.php:22
+msgid "Aspen Raw HTML"
+msgstr ""
+
+#: widgets/widget-raw-html.php:24
+msgid "Renders any custom HTML with shortcodes."
+msgstr ""
+
+#: widgets/widget-raw-html.php:34
+msgid "Text"
+msgstr ""
+
+#: widgets/widget-raw-html.php:35
+msgid "Enter text or custom mark-up here."
+msgstr ""
+
+#: widgets/widget-recent-comments.php:22
+msgid "Aspen Recent Comments"
+msgstr ""
+
+#: widgets/widget-recent-comments.php:24
+msgid "Displays the most recent comments."
+msgstr ""
+
+#: widgets/widget-recent-comments.php:39
+msgid "Recent Comments"
+msgstr ""
+
+#: widgets/widget-recent-comments.php:44
+msgid "Amount of comments to show"
+msgstr ""
+
+#: widgets/widget-recent-comments.php:45
+msgid "Enter an amount of comments you would like to display."
+msgstr ""
+
+#: widgets/widget-recent-posts.php:23
+msgid "Aspen Recent Posts"
+msgstr ""
+
+#: widgets/widget-recent-posts.php:25
+msgid "Displays the most recent posts."
+msgstr ""
+
+#: widgets/widget-recent-posts.php:40
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets/widget-recent-posts.php:45
+msgid "Amount of posts to show"
+msgstr ""
+
+#: widgets/widget-recent-posts.php:46
+msgid "Enter an amount of posts you would like to display."
+msgstr ""
+
+#: widgets/widget-social-icons.php:22
+msgid "Aspen Social Icons"
+msgstr ""
+
+#: widgets/widget-social-icons.php:24
+msgid "Displays social profile links with icons."
+msgstr ""
+
+#: widgets/widget-social-icons.php:32
+msgid "Links"
+msgstr ""
+
+#: widgets/widget-social-icons.php:46
+msgid "Follow us"
+msgstr ""
+
+#: widgets/widget-testimonial.php:22
+msgid "Aspen Testimonial"
+msgstr ""
+
+#: widgets/widget-testimonial.php:24
+msgid "Displays a testimonial."
+msgstr ""
+
+#: widgets/widget-testimonial.php:40
+msgid "Testimonial"
+msgstr ""
+
+#: widgets/widget-testimonial.php:45
+msgid "Quote"
+msgstr ""
+
+#: widgets/widget-testimonial.php:46
+msgid "Enter the actual testimonial text here."
+msgstr ""
+
+#: widgets/widget-testimonial.php:58
+msgid "Enter the quoted person's name."
+msgstr ""
+
+#: widgets/widget-testimonial.php:78
+msgid "Upload an image to be displayed with this testimonial."
+msgstr ""
+
+#: widgets/widget-testimonial.php:94
+msgid "Normal"
+msgstr ""
+
+#: widgets/widget-video.php:22
+msgid "Aspen Embedded Video"
+msgstr ""
+
+#: widgets/widget-video.php:24
+msgid "Displays an embedded video."
+msgstr ""
+
+#: widgets/widget-video.php:46
+msgid "Video URL or Custom Embed Code"
+msgstr ""
+
+#: widgets/widget-video.php:47
+msgid ""
+"Enter a plain video URL, or an embed code. If using custom embed codes, "
+"make sure you modify it to be responsive."
+msgstr ""
+
+#: widgets/widget-video.php:58
+msgid "Embed Mode"
+msgstr ""
+
+#: widgets/widget-video.php:59
+msgid "Select which embed mode you would like to use."
+msgstr ""
+
+#: widgets/widget-video.php:64
+msgid "oEmbed from plain URL"
+msgstr ""
+
+#: widgets/widget-video.php:68
+msgid "Custom integration code"
+msgstr ""
+
+#: widgets/widget-video.php:72
+msgid "Custom integration code, with responsive wrapper"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Aspen Feature Pack by ShapingRain"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://shapingrain.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The Aspen Feature Pack plug-in is required to enable some of the Aspen "
+"theme's add-on features, e.g. social sharing links, custom widgets etc."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ShapingRain"
+msgstr ""
